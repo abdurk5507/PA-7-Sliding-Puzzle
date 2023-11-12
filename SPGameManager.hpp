@@ -1,6 +1,6 @@
 /*********************************************************
 * Summary: This file includes the header file of "SPGameManager.cpp"
-* Author: Abdur Khan
+* Author: abdurk5507
 * Created: December 4th, 2021
 ********************************************************/
 
