@@ -1,8 +1,8 @@
 ****
-- **Name      :  **
-- **Student ID #: 105071067**
+- **Name      :**
+- **Student ID #:**
 - **Class     :  CSCI 2312**   
-- **PA#       :  7 -  Sliding Puzzle **  
+- **PA#       :  7 -  Sliding Puzzle**  
 - **Due Date  :  12/12/2021**  
 ****
 
