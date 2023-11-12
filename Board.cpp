@@ -1,6 +1,6 @@
 /*********************************************************
 * Summary: This file includes the implementation of "Board.hpp"
-* Author: Abdur Khan
+* Author: abdurk5507
 * Created: December 4th, 2021
 ********************************************************/
 
