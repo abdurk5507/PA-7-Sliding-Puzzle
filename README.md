@@ -1,5 +1,5 @@
 ****
-- **Name      :  Abdur Khan**
+- **Name      :  **
 - **Student ID #: 105071067**
 - **Class     :  CSCI 2312**   
 - **PA#       :  7 -  Sliding Puzzle **  
