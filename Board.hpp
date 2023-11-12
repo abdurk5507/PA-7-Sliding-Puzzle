@@ -1,6 +1,6 @@
 /*********************************************************
 * Summary: This file includes the function headers for "Board.cpp"
-* Author: Abdur Khan
+* Author: abdurk5507
 * Created: December 4th, 2021
 ********************************************************/
 
